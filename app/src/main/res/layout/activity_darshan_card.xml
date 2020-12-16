@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".insideHostel.darshan.darshanCard">
+
+
+    <com.denzcoskun.imageslider.ImageSlider
+
+        android:id="@+id/imageSlider"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:auto_cycle="true"
+        app:corner_radius="5"
+        app:delay="0"
+        app:period="2000"/>
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:background="#2b2e4a"
+            android:layout_below="@id/imageSlider"
+            android:id="@+id/barr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+                 <com.google.android.material.tabs.TabLayout
+                     android:id="@+id/tab_layout"
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content">
+
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:icon="@drawable/info"
+                    android:text="Overview" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:icon="@drawable/ic_baseline_house_24"
+                    android:text="Facilities" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:icon="@drawable/money"
+                    android:text="Fees" />
+
+                     <com.google.android.material.tabs.TabItem
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:icon="@drawable/map"
+                         android:text="Location" />
+
+
+
+                 </com.google.android.material.tabs.TabLayout>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:layout_below="@+id/barr"
+        android:id="@+id/vPager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="0dp" />
+
+
+</RelativeLayout>

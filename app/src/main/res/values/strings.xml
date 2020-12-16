@@ -1,0 +1,309 @@
+<resources>
+    <string name="app_name">Hostelinfo</string>
+    <string name="search">Search…</string>
+    <string name="hostelinfo">Hostelinfo</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paragraph">
+                Darshan Hostel provides a wide range of facilities to ensure that students enjoy a vibrant campus life, while simultaneously accommodating a large number of students.
+        \n\n
+        Darshan Hostel is located very near to CHARUSAT  (Charotar Institute Of Technology – Changa). Students from distant places do not have to run here and there for accommodation. They can live in comfortable rooms and enjoy all the facilities provided in the hostel. It is very close to CITC campus, thus saving valuable time of students otherwise spent on travelling.
+        \n\n
+        Mess food is nutritious with a different menu for each day of the week.Full security is ensured and strict discipline is maintained. The boys’ hostel has the capacity to accommodate 120 boys. All rooms are spacious and well ventilated. Comfortable furniture and enough storage space are provided in each room. There is 24 hour water and power supply.
+        \n
+        Darshan hostel is well maintained with staff working overtime to ensure that students live comfortably inside the building premises. Hostel life for any student is one of the unforgettable moments and Darshan Hostel makes stay memorable by providing a holistic atmosphere. Staying at hostel encourage the students to become responsible and independent. It also gives an opportunity to work in a team and develop a sense of understanding of the society as students are from diversified areas and families.
+        \n
+
+    </string>
+
+    <string name="facilities">
+
+Facilities are provided by Darshan Hostel as listed:
+\n
+Room facility: As per the requirement and wish of the students, we provide the room with one, two, or three beds. Rooms are also available with the attached toilet and attached balconies.All the rooms are also facilitated by common bathrooms, study tables and cabinets. Bed, bed-sheets, pillow cover and laundry service will also be provided. Rooms are provided on sharing basis (3-4 students per room).
+\n\n
+Food facility: Separate kitchen and dinning space is provided, to facilitate all the hostellites with fresh, hygienic and quality food with unlimited quantity. Breakfast, lunch and dinner will be provided in hostel.
+\n\n
+Internet / Wi-Fi facility: We are also providing internet access facility. So that hostellites can stay connected with our hi-speed internet connection at Net zone.
+\n\n
+Gym Facility: Gym facility is also provided in hostel premises which is helpful for bodies to be fit always. Trainers are available to guide members through specialized programs. Personal trainers guide, motivate and make sure the member adheres to their program.We providing Strength Training,Personal Training, Spinning Studio,Cardio, Steam Room etc.
+\n\n
+Solar and Water: Hostel owns generator set, bores, and water tank with adepuate water with Mineral water R.O system.
+\n\n
+Other Amenities: Xerox, Lamination, Fax in hostel premises.
+For further details related to accommodation, food, transportation, rent etc.. you can contact us through E-mail or you can call us as we provided in Contact Us.
+    </string>
+    <string name="aswd">
+        Ashirvad Hostel provides a wide range of facilities to ensure that students enjoy a vibrant campus life, while simultaneously accommodating a large number of students.\n
+ Ashirvad hostel is well maintained with staff working overtime to ensure that students live comfortably inside the building premises.\nHostel life for any student is one of the unforgettable moments and Ashirvad Hostel makes stay memorable by providing a holistic atmosphere. Staying at hostel encourage the students to become responsible and independent. It also gives an opportunity to work in a team and develop a sense of understanding of the society as students are from diversified areas and families.\n\n
+
+        Rules :\n\n
+1)We Charge Rs70/- for 1 hour for swimming pool.\n
+2)Light Bill for rooms will be taken additionally in every 15-20 days\n
+3)Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+4)Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+5)The students should strictly observe the prescribed mess timings.\n
+6)Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+
+</string>
+    <string name="aswd_facilities">
+1)Free Wifi Access.\n
+2)Indoor Garden.\n
+3)Surround Sound Theater Hall.\n
+4)King Size Comfortable Room.\n
+5)Lift Access.\n
+6)Cafeteria.\n
+7)Huge Dinning Hall.\n
+8)24 hr security.\n
+9)Doctor On Call.\n
+10)Peacefull environment for study\n
+</string>
+
+    <string name="nilk1">
+ Nilkanth hostel provides a best service for students so that they can feel like they are staying to home.\n
+Hostel inmates will be personally and collectively responsible for any loss/ damage to properties, equipments and other fittings in the common place. In case damageor loss of any part of hostel buildings, furniture, apparatus or other property of hostel, including playing instruments, caused by inmates, yhe loss shall be recovered from the persons identified as responsible for such damage. However , if the persons causing damage cannot be identified, the cost of repairing the same may be assessed and distributed equally among all the inmates of the hostel or group of inmates of hostel .\n\n
+        Rules:\n\nn
+        1)we have our own vechicles for emergency.\n
+2) Hostel authorities and it’s staff will not be responsible for any mishap incident with student due to natural disaster, suside and/or attempt to suside etc.\n
+3)Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+4)Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+5)Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+6)The rector or any authorized member of the hostel can inspect room of any student in the hostel at any time without notification.\n
+7)Mess menu will be designed by hostel management committee . the menu shall be displayed in the dining hall of the hostel.\n
+8)Ragging of any kind is severely punishable as per the Supreme Court directives leading to expulsion from the hostel. As such, students are advised not to include in such activity.\n
+9)Students should lock their room properly when they leave the room.\n
+
+    </string>
+
+    <string name="nilk_facilities">
+
+1.A garden\n
+2.AC/NON AC rooms\n
+ 3.canteen\n
+4.cooler(DRINK water)\n
+5.security\n
+6.Great environment\n
+    </string>
+
+    <string name="nisrg">
+        Nisarg hostel provides a wide range of facilities to ensure that students enjoy a vibrant campus life, while simultaneously accommodating a large number of students.
+        \n\n
+        Nisarg Hostel is located very near to CHARUSAT  (Charotar Institute Of Technology – Changa). Students from distant places do not have to run here and there for accommodation. They can live in comfortable rooms and enjoy all the facilities provided in the hostel. It is very close to CITC campus, thus saving valuable time of students otherwise spent on travelling.
+        \n\n
+        Mess food is nutritious with a different menu for each day of the week.Full security is ensured and strict discipline is maintained. The boys’ hostel has the capacity to accommodate 120 boys. All rooms are spacious and well ventilated. Comfortable furniture and enough storage space are provided in each room. There is 24 hour water and power supply.
+        \n\n
+
+        Rules:\n\n
+        1)Student should behave in such a matter that is not a nuisance to the roommates or the neighbours.\n
+2)Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+3)Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+4)Late night entry after 11.00 pm. Is not permissible. Students shall not remain absent during night between 11.00 PM to 6.00 AM without the prior permission of the rector. However for any such eventuality that may occur, the responsibility does not lie with the hostel authorities.\n
+5)Hostel inmates will be personally and collectively responsible for any loss/ damage to properties, equipments and other fittings in the common place. In case damageor loss of any part of hostel buildings, furniture, apparatus or other property of hostel, including playing instruments, caused by inmates, yhe loss shall be recovered from the persons identified as responsible for such damage. However , if the persons causing damage cannot be identified, the cost of repairing the same may be assessed and distributed equally among all the inmates of the hostel or group of inmates of hostel .\n
+6)Water conservation should be followed strictly. Taps in bathroom/toilets must be closed whenever they are not in use.\n
+7)Hostel authority reserves the right to evict any hosteller immediately if his stay causes disciplinary or any other problems.\n
+8)The rector or any authorized member of the hostel can inspect room of any student in the hostel at any time without notification.\n
+9)Students should lock their room properly when they leave the room.\n
+
+    </string>
+
+    <string name="nsrg_facilities">
+
+
+ 1.20% students  of first year.\n
+2..Boarding and Dinning facility.\n
+2.AC and Non AC accommodation.\n
+3.Hygienic food.\n
+4.Free WiFi zone.\n
+5.TV Theatre hall with sound system.\n
+6.Hot and Cold water facility\n
+7.CCTV Surveillance.\n
+8.Open space garden and play area.\n
+9.Convenience store for Snacks, Hot and Cold Refreshments.\n
+ 10.nearest hostel.\n
+
+
+    </string>
+
+    <string name="ohm">
+Ohm hostel is controlled by a warden. The warden guides the students. He sees whether the rules of the hostel are being followed or not. Though the warden is there to look after them yet they have their own way. They have to study and do their duties themselves.A hostel has a mess which at times is run on a co-operative basis. Food is served in the mess. The washer man and the barber visit the hostel regularly. Some students wash their own clothes. Others give their clothes to the washer man.\n\n
+        Rules :\n\n
+        1.Late night entry after 10.00 pm is not permissible. Students shall not remain absent during night between 10.00 PM to 5.00 AM without the prior permission of the rector. However for any such eventuality that may occur, the responsibility does not lie with the hostel authorities.\n
+        2.Students of other hostels are not allowed.
+        3.Any type of consumption of alcohol or other are strictly prohibited.
+        4.Pornography is strictly prohibited.
+    </string>
+
+    <string name="ohm_facilities">
+1)Free Wifi Access.\n
+2)Gym\n
+3)Surround Sound Theater Hall.\n
+4)King Size Comfortable Room.\n
+5)Table tannis room.\n
+6)TV Hall\n
+7)Huge Dinning Hall.\n
+8)24 hr security.\n
+9)Peacefull environment for study\n
+    </string>
+
+    <string name="rylcr">
+Royal Care hostel is well maintained with staff working overtime to ensure that students live comfortably inside the building premises.
+        \n Hostel life for any student is one of the unforgettable moments and Royal Care Hostel makes stay memorable by providing a holistic atmosphere.
+        \nStaying at hostel encourage the students to become responsible and independent.\n It also gives an opportunity to work in a team and develop a sense of understanding of the society as students are from diversified areas and families.\n\n
+
+        Rules : \n\n
+1. Late night entry after 10.00 pm is not permissible. Students shall not remain absent during night between 10.00 PM to 5.00 AM without the prior permission of the rector. However for any such eventuality that may occur, the responsibility does not lie with the hostel authorities.\n
+2. We Charge Rs3000/- for security deposite Which will be given after a year of complision.\n
+3. Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+4. Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+5. The students should strictly observe the prescribed mess timings.\n
+6. Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+
+    </string>
+
+    <string name="rylcr_facilities">
+1)Free Wifi Access.\n
+2)Indoor Garden.\n
+3)Surround Sound Theater Hall.\n
+4)King Size Comfortable Room.\n
+5)Lift Access.\n
+6)Cafeteria.\n
+7)Huge Dinning Hall.\n
+8)24 hr security.\n
+9)Doctor On Call.\n
+10)Peacefull environment for study\n
+    </string>
+
+<string name="sahja">
+    Sahajanand hostel is nutritious with a different menu for each day of the week.Full security is ensured and strict discipline is maintained. The boys’ hostel has the capacity to accommodate 120 boys. All rooms are spacious and well ventilated. Comfortable furniture and enough storage space are provided in each room. There is 24 hour water and power supply.\n\n
+
+    Rules: \n\n
+    1)Late night entry after 11.00 pm. Is not permissible. Students shall not remain absent during night between 11.00 PM to 6.00 AM without the prior permission of the rector. However for any such eventuality that may occur, the responsibility does not lie with the hostel authorities.\n
+2)Students shall not be permitted to stay in hostel during their mid-term vacation or final vacation.\n
+3)Student should behave in such a matter that is not a nuisance to the roommates or the neighbours.\n
+4)Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+5)Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+6)Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+7)no illegal work.\n
+8)Water conservation should be followed strictly. Taps in bathroom/toilets must be closed whenever they are not in use.\n
+9)The students should strictly observe the prescribed mess timings.\n
+10)Pornography is strictly prohibited inside the room as well as in T.V room.\n
+
+</string>
+<string name="shja_facilities">
+1.Boarding and Dinning facility\n
+2.AC and Non AC accommodation\n
+3.Hygienic food\n
+4.Free WiFi zone\n
+5.TV Theatre hall with sound system\n
+6.Hot and Cold water facility\n
+7.CCTV Surveillance\n
+8.Open space garden and play area..\n
+9.Convenience store for Snacks, Hot and Cold Refreshments\n
+</string>
+<string name="srdp">
+
+Shreedeep hostel is well maintained with staff working overtime to ensure that students live comfortably inside the building premises.\n\n
+    Rules:\n\n
+    1)Late night entry after 10.00 pm. Is not permissible. Students shall not remain absent during night between 10.00 PM to 5.00 AM without the prior permission of the rector. However for any such eventuality that may occur, the responsibility does not lie with the hostel authorities.\n
+2)Students shall not be permitted to stay in hostel during their mid-term vacation or final vacation.\n
+3)Hostel authorities and it’s staff will not be responsible for any mishap incident with student due to natural disaster, suicide and/or attempt to suicide etc.\n
+4)Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+5)Formation of association of students on the basis of regions, religious, cast or creed is not permitted, during their stay in the hostel.\n
+6)Female visitors are not permitted to visit any time into Hostel without the permission of the rector.\n
+7)Friends are not allowed to stay during night time in any case not even during the exam time or vacation time.\n
+8)A hostel student will be completely responsible for all his belongings including his mobile phone/ laptop/ vehicles.\n
+9)Water conservation should be followed strictly. Taps in bathroom/toilets must be closed whenever they are not in use.\n
+10)T.V. audio system should be used properly and must be switched off when no use.\n
+11)Pornography is strictly prohibited inside the room as well as in T.V room.\n
+12)Additional kit like ball, carom stickers, powder, bat, racket, etc… will not be provided.\n
+13)The students should strictly observe the prescribed mess timings.\n
+14)Consumption or storage or supplying of any alcoholic liquor or drug material, tobacco chewing and smoking is strictly prohibited and any body found guilty the same will be dealt severely. Any kind of gambling is also prohibited.\n
+
+</string>
+<string name="srdp_facilities">
+A great experience for students to stay and to do study and activity so that they will feel positive,happy and positive with others.\n\n
+1. A gym\n
+2..Boarding and Dinning facility\n
+2.AC and Non AC accommodation\n
+3.Hygienic food\n
+4.Free WiFi zone\n
+5.TV Theatre hall with sound system\n
+6.Hot and Cold water facility\n
+7.CCTV Surveillance\n
+8.Open space garden and play area..\n
+9.Convenience staff\n
+</string>
+<string name="ohm_fees">
+    Total Fees:\n
+    Deposit: 2500/-\n
+    AC: 76000/-  \n Non-AC: 67000/-\n\n
+    Contacts:\n
+    (O)02697-248303\n
+    (M)98245 07667-Dushyant Bhai\n
+
+</string>
+<string name="aswd_fee">
+    Deposit: 5000/-\n
+    Only AC rooms: 68000/-\n\n
+    Contacts:\n
+    (M)99134 13317-Hitesh Bhai\n
+    (M)98988 44578-Dushyant Bhai\n
+</string>
+    <string name="darshan_fee">
+        Deposit: 5000/-
+        Non-AC : 53000/-   \nAC:53000\n
+        Contacts:\n
+        (M)99095 23236-Sanjay Bhai\n
+    </string>
+<string name="nlk_fee">
+    Deposit:5000/-\n
+    Fee: 55000/-\n
+
+    Contacts:\n
+     (M)9426548770-Gyanshyam Bhai\n
+</string>
+    <string name="nsrg_fee">
+        Deposit: 5000/-\n
+        Non-AC: 55000/-\n
+        AC : 75000/-\n
+
+        Contacts:\n
+        (M)9979099888-Hitesh Bhai\n
+    </string>
+    <string name="rylcr_fee">
+     Deposit:3000/-
+     Three types of room available:\n
+        1.Super Delux room: (AC+Fridge)\n
+        80000/-\n\n
+        2.Delux room: (AC)\n
+        75000/-\n\n
+        3.Standard room: (Non-AC)\n
+        65000/-\n\n
+
+        Contacts:
+        (M)9427041818\n (M)9586541818\n
+
+    </string>
+<string name="sahaja_fee">
+Deposit: 5000/-\n\n
+    AC room: 72000/-\n
+    Non-AC room: 67000\n\n
+    Contacts:\n
+    (M)9714221109\n (M)9426120675-Gyanshyam Bhai\n
+</string>
+    <string name="srdp_fee">
+        Deposit: 5000\n\n
+        Delux room (AC+Fridge+extra study room):\n
+        78000/-\n
+        AC room:\n
+        71000/-\n
+        Non-AC:\n
+        69000/-\n\n
+        Contacts:\n
+        (M)9727765994-Nimesh Bhai\n
+    </string>
+</resources>

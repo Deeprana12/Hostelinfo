@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466670848194",
+    "firebase_url": "https://hostelinfo-a3e81.firebaseio.com",
+    "project_id": "hostelinfo-a3e81",
+    "storage_bucket": "hostelinfo-a3e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466670848194:android:08792a9cb2b8228dd2d35b",
+        "android_client_info": {
+          "package_name": "com.example.hostelinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466670848194-cfa1jj5nve983442jlvb06toab9quoq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hostelinfo",
+            "certificate_hash": "a2487bfaf53472ff99f6fe54a20cd39f8744f79c"
+          }
+        },
+        {
+          "client_id": "466670848194-mpmb2q6s7pjs2pgc9kq8s0fbnetlnmc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJxtOBFj0_rFIF5t2ZvGMA4R_xAnxXjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466670848194-mpmb2q6s7pjs2pgc9kq8s0fbnetlnmc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

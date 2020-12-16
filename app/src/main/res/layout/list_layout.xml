@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4f6ff">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp"
+            android:background="#f4f6ff">
+
+            <ImageView
+                android:id="@+id/hostelimage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/hostelimage">
+
+            <TextView
+                android:id="@+id/hostelimagetext"
+                android:layout_width="wrap_content"
+                android:layout_height="47sp"
+                android:text="Shreedeep Hostel"
+                android:layout_marginLeft="4sp"
+                android:fontFamily="@font/lalezar"
+                android:layout_alignParentTop="true"
+                android:textSize="35sp"
+                android:textStyle="normal"/>
+
+            <ImageView
+                android:id="@+id/univ"
+                android:layout_below="@id/hostelimagetext"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="10sp" />
+
+            <TextView
+                android:id="@+id/distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3sp"
+                android:paddingHorizontal="4sp"
+                android:paddingLeft="4sp"
+                android:text="Distance: 4.3km"
+                android:textAlignment="gravity"
+                android:textSize="12sp"
+                android:layout_toRightOf="@id/univ"
+                android:layout_below="@id/hostelimagetext" />
+
+            <ImageView
+                android:id="@+id/transport"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_toRightOf="@+id/distance"
+                android:layout_below="@id/hostelimagetext"/>
+
+            <TextView
+                android:id="@+id/rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10sp"
+                android:text="Ratings"
+                android:textSize="17sp"
+                android:paddingRight="6sp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"/>
+
+            <ImageView
+                android:id="@+id/star"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:paddingRight="6sp"
+                android:layout_marginHorizontal="2sp"
+                android:layout_below="@id/rating"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"/>
+
+            <TextView
+                android:id="@+id/rates"
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="4.3"
+                android:textSize="19sp"
+                android:layout_below="@id/rating"
+                android:layout_toLeftOf="@id/star"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>
